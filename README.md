@@ -1,4 +1,4 @@
-# Amazon-Sales-dashboard
+# Amazon-Sales-Analysis (Making major changes)
 
 This project involves the creation of an Amazon Sales Dashboard using Power BI, providing insightful visualizations and analytics on sales performance, profit distribution, and order trends. The dataset was cleaned and processed to enhance clarity, ensuring meaningful analysis.
 
